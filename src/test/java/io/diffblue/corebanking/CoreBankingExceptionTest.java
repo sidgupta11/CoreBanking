@@ -5,6 +5,7 @@ import static org.junit.Assert.assertNull;
 
 import org.junit.Test;
 
+
 public class CoreBankingExceptionTest {
     @Test
     public void testConstructor() {
